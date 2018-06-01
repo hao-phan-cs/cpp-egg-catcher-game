@@ -1,0 +1,4 @@
+﻿  EggsCatcher.cpp
+d:\project\vs projects\eggscatcher\eggscatcher\eggscatcher.cpp(12): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  EggsCatcher.vcxproj -> D:\Project\VS Projects\EggsCatcher\Debug\EggsCatcher.exe
+  EggsCatcher.vcxproj -> D:\Project\VS Projects\EggsCatcher\Debug\EggsCatcher.pdb (Full PDB)
